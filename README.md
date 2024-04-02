@@ -10,6 +10,6 @@
   More about me : www.linkedin.com/in/jessica-ah-waye
   <br><br>
 
-  --> To the pleasure of exchanging 
+  --> To the pleasure of exchanging <--
 - 
 
