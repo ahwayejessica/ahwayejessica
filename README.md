@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ahwayejessica/ahwayejessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi , I'm Jessica a Sayna Student.
+- 👀 I'm interested in code and I want to be developer with several digital and digital skills.
+- 🌱 I'm currently learning all things about development and specifically how to learn it.
+- 💕 I'm looking an opportunity to realize my dream job, good look to me!
+- 💻 How to reach me : ahwaye.jessica@icloud.com
 
-Here are some ideas to get you started:
+  <br><br>
+  More about me : www.linkedin.com/in/jessica-ah-waye
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  --> To the pleasure of exchanging 
+- 
+
